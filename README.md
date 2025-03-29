@@ -1,0 +1,2 @@
+# WP
+Simply_Static
